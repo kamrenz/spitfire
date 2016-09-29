@@ -1,2 +1,2 @@
 # spitfire
-Welcome to Angular 2 @ Spitfire
+Welcome to Angular 2 @ SpitFire
